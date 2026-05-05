@@ -1,0 +1,6 @@
+voyageai>=0.2.0
+chromadb>=0.5.0
+python-dotenv>=1.0.0
+jupyter>=1.0.0
+nbformat>=5.9.0
+pytest>=8.0.0
